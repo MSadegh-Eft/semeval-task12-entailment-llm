@@ -19,7 +19,7 @@ Built for an Advanced NLP course assignment.
 |------|-------------|
 | `main.ipynb` | Complete solution and evaluation |
 | `semeval-dataset/` | SemEval Task 12 data |
-| `Project.pdf` | Project description |
+| `assignment.pdf` | Task description and guidelines |
 | `Report.pdf` | Final report |
 | `requirements.txt` | Dependencies |
 
